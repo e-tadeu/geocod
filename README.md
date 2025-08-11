@@ -64,6 +64,6 @@ Este plugin é licenciado sob os termos da licença MIT.
 
 Engenheiro Cartógrafo | Capitão do Exército Brasileiro
 
-Desenvolvido no âmbito de estudos e aplicações em geotecnologias e segurança do espaço aéreo.
+Desenvolvido no âmbito de estudos e aplicações em geotecnologias.
 
 + &copy;2025 Edson Tadeu da Silva Pinto
