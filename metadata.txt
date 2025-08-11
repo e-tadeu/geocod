@@ -1,0 +1,22 @@
+[general]
+name=Geocodificacao
+qgisMinimumVersion=3.0
+description=Este plugin automatiza a geocodificação de endereços dispostos em CSV e cria um shapefile deste pontos
+version=1.0
+author=Edson Tadeu da Silva Pinto
+email=e.tadeu.eb@ime.eb.br
+license=MIT
+
+about=Este complemento automatiza a geocodificação de endereços dispostos em CSV e cria uma camada de pontos.
+
+tracker=https://github.com/e-tadeu/geocod/issues
+repository=https://github.com/e-tadeu/geocod.git
+
+hasProcessingProvider=yes
+tags=python,geocoder,csv,address,qgis
+
+homepage=https://github.com/e-tadeu/geocod.git
+category=Plugins
+icon=icon.png
+experimental=False
+deprecated=False
