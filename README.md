@@ -53,3 +53,17 @@ Local 3, "Avenida Thiago Peixoto, 274 - Batel, Antonina, Paraná", Hospital 3
 Este plugin utiliza e adapta código da biblioteca [geocoder](https://github.com/DenisCarriere/geocoder) de Denis Carriere, licenciada sob MIT License.
 
 Agradecemos aos autores originais pelo trabalho e pela disponibilização do código.
+
+## Licença
+
+Este plugin é licenciado sob os termos da licença MIT.
+
+## Autor
+
+**Edson Tadeu da Silva Pinto**
+
+Engenheiro Cartógrafo | Capitão do Exército Brasileiro
+
+Desenvolvido no âmbito de estudos e aplicações em geotecnologias e segurança do espaço aéreo.
+
++ &copy;2025 Edson Tadeu da Silva Pinto
